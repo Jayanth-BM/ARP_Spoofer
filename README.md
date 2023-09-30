@@ -17,7 +17,7 @@ Requirements and Usage
 
 2. Change Directory to file
 
-   cd ARP_Spoofer
+   cd arp_spoofer
 
 
 3. Requirements are already specified in the requirements.txt (Contains Module for Program to Run) use the following command to to install it
