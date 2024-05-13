@@ -24,7 +24,7 @@ Requirements and Usage
 
    command :- pip install -r requirements.txt
 
-   Note :- This Tool is only for Linux Not for other Operating System and works for python version 3 or higher
+   Note :- This Tool is only works for python 3.6 or higher
   
 
 4. The General Usage of Tool is like this
